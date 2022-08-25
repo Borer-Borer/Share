@@ -1,2 +1,2 @@
-# Share
-Sharing CS what i learned
+## computer science
+[CS](techyourselfcs.com/)
